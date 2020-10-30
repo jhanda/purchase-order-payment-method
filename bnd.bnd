@@ -1,0 +1,4 @@
+Bundle-Name: purchase-order-payment-method
+Bundle-SymbolicName: com.liferay.commerce.demo.payment.method.purchase.order
+Bundle-Version: 1.0.0
+Web-ContextPath: /purchase-order-payment-method
